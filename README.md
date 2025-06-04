@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Chethana  
+**Mobile App Developer | Flutter & Dart | iOS(Swift)**
 
-<!--
-**Chethana-BL/Chethana-BL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile developer focused on building reliable, scalable applications using **Flutter** and native iOS technologies — with **9+ years overall** and **5+ in Flutter**. I’ve worked across domains like **smart home automation**, **device onboarding**, and **mobile printing**, creating solutions that simplify complex device interactions and enhance everyday user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do
+🔹 Develop cross-platform apps with scalable UI and clean architecture  
+🔹 Enhance onboarding flows for connected devices using Bluetooth/Wi-Fi  
+🔹 Collaborate across teams to bridge mobile apps with firmware and cloud systems  
+🔹 Mentor junior developers and promote best coding practices  
+🔹 Build rapid prototypes, internal tools, and testing utilities  
+
+---
+
+### 🌱 What I Enjoy
+I enjoy solving technical challenges, refining mobile UX, and continuously learning through hands-on work. I'm currently open to connecting around **mobile development**, **clean architecture**, and **meaningful tech projects**.
+
+---
+
+📍 Based in Germany  
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/chethana-bangalore-lakshmiprasad/)  
